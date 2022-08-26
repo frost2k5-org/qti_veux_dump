@@ -1,0 +1,2 @@
+require version-baseband=4.3.1.c4-00008-MANNAR_GEN_PACK-1
+require version-vendor=1645809202
